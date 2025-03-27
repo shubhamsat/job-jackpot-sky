@@ -141,6 +141,21 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
+        "id": "1743065433065",
+        "text": "Offered full-time opportunities by clients due to strong performance and impact.",
+        "type": "award"
+      },
+      {
+        "id": "1743065411253",
+        "text": "Received client recognitions for outstanding contributions and performance.",
+        "type": "award"
+      },
+      {
+        "id": "1743065419414",
+        "text": "Awarded paid recognitions for consistently exceeding expectations.",
+        "type": "award"
+      },
+      {
         "id": "1743055754750",
         "text": "State Level Badminton Player",
         "type": "award"
