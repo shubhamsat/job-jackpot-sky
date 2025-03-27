@@ -159,6 +159,16 @@
         "id": "1743055754750",
         "text": "State Level Badminton Player",
         "type": "award"
+      },
+      {
+        "id": "1743065631505",
+        "text": "University National Volleyball Player",
+        "type": "award"
+      },
+      {
+        "id": "1743065658493",
+        "text": "District Level Cricket Player",
+        "type": "award"
       }
     ]
   },
