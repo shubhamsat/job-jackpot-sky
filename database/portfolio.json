@@ -161,55 +161,47 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "Jan'23 – Present",
-        "projectName": "AWS Cloud Dashboard",
-        "headline1": "Designed cloud-native applications with AWS Lambda & DynamoDB.",
-        "headline2": "Implemented CI/CD pipelines for automated deployments.",
-        "designation": "Full Stack Developer (Cloud & Web Development)",
+        "timeline": "Nov'24 – Present",
+        "projectName": "Mashreq Bank",
+        "headline1": "Developed and maintained Mashreq Bank’s internal application using React, JavaScript, HTML, and CSS, optimizing performance with React Hook Form, custom hooks, useMemo, and useCallback.",
+        "headline2": "Collaborated with cross-functional teams, conducted code reviews, managed production deployments, optimized application performance, debugged defects, and resolved SonarQube issues to ensure application stability, performance, and code quality.",
+        "designation": "Associate Staff Engineer",
         "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
+          "linkText": "",
+          "linkUrl": ""
         },
-        "skills": "Next.js, TypeScript, AWS Lambda, Terraform, GraphQL",
-        "companyName": "Amazon",
-        "images": [
-          {
-            "fileName": "fs2.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs2.png"
-          },
-          {
-            "fileName": "fs3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs3.png"
-          }
-        ]
+        "skills": "",
+        "companyName": "Nagarro",
+        "images": []
       },
       {
-        "timeline": "Jul'19 – Dec'22",
-        "projectName": " E-commerce Web Platform",
-        "headline1": "Built and optimized a high-traffic e-commerce platform.",
-        "headline2": "Developed a microservices architecture for scalability.",
-        "designation": "Software Engineer (Full Stack Developer)",
+        "timeline": "Apr'23 – Nov'24",
+        "projectName": "Lowe's Companies, Inc",
+        "headline1": "Worked on Lowe's store selling application, developed new software features, and collaborated with cross-functional teams to enhance product functionality and user experience.",
+        "headline2": "Managed defect resolution, incident triage, production deployments, and provided support during high-traffic periods, addressing sonar issues, rectifying code smells, and managing test coverage gaps.",
+        "designation": "Associate Staff Engineer",
         "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
+          "linkText": "",
+          "linkUrl": ""
         },
-        "skills": "React.js, Node.js, MongoDB, Docker, AWS",
-        "companyName": "Infosys",
-        "images": [
-          {
-            "fileName": "fs1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs1.png"
-          },
-          {
-            "fileName": "fs4.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs4.png"
-          },
-          {
-            "fileName": "fs5.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/job-jackpot/master/images/fs5.png"
-          }
-        ],
+        "skills": "",
+        "companyName": "Nagarro",
+        "images": [],
         "rank": "2"
+      },
+      {
+        "timeline": "Sep'21 – Apr'23",
+        "projectName": "Analog Devices, Inc.",
+        "headline1": "Developed new components and resolved issues on the website using React, HTML, CSS, and JS, estimated time & efforts, and completed tasks within deadlines.",
+        "headline2": "Conducted code reviews, participated in daily standups, and increased website functionality by 20% through implementing new components.",
+        "designation": "Technical Consultant",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "",
+        "companyName": "Perficient Inc.",
+        "images": []
       }
     ]
   },
