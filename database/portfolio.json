@@ -26,7 +26,7 @@
     "skills": [
       {
         "id": "1740395657898",
-        "name": "ReactJS",
+        "name": "React",
         "rating": 5
       },
       {
@@ -53,6 +53,96 @@
         "id": "1740395757214",
         "name": "Git",
         "rating": 8.5
+      },
+      {
+        "id": "1743050101556",
+        "name": "HTML",
+        "rating": 8
+      },
+      {
+        "id": "1743050104845",
+        "name": "CSS",
+        "rating": 8
+      },
+      {
+        "id": "1743050113266",
+        "name": "Bootstrap",
+        "rating": 8
+      },
+      {
+        "id": "1743050121237",
+        "name": "jQuery",
+        "rating": 8
+      },
+      {
+        "id": "1743050134747",
+        "name": "Responsive Web Design",
+        "rating": 8
+      },
+      {
+        "id": "1743050160341",
+        "name": "Version Control using Git/Bitbucket/Azure Devops",
+        "rating": 8
+      },
+      {
+        "id": "1743050168577",
+        "name": "HP ALM",
+        "rating": 8
+      },
+      {
+        "id": "1743050176943",
+        "name": "Team Management",
+        "rating": 8
+      },
+      {
+        "id": "1743050193857",
+        "name": "Jira",
+        "rating": 8
+      },
+      {
+        "id": "1743050204043",
+        "name": "Redux Saga",
+        "rating": 8
+      },
+      {
+        "id": "1743050212522",
+        "name": "React Context",
+        "rating": 8
+      },
+      {
+        "id": "1743050220617",
+        "name": "Jest",
+        "rating": 8
+      },
+      {
+        "id": "1743050225170",
+        "name": "Enzyme",
+        "rating": 8
+      },
+      {
+        "id": "1743050260935",
+        "name": "Cypress",
+        "rating": 8
+      },
+      {
+        "id": "1743050275508",
+        "name": "Incidents Traging",
+        "rating": 8
+      },
+      {
+        "id": "1743050292994",
+        "name": "Deployments",
+        "rating": 8
+      },
+      {
+        "id": "1743050314398",
+        "name": "React Forms Hook",
+        "rating": 8
+      },
+      {
+        "id": "1743050325517",
+        "name": "Custom Hooks",
+        "rating": 8
       }
     ],
     "skillAnimationType": "still-animation"
