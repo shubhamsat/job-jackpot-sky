@@ -202,6 +202,20 @@
         "skills": "",
         "companyName": "Perficient Inc.",
         "images": []
+      },
+      {
+        "timeline": "Dec'19 – Sep'21",
+        "projectName": "Charles Schwab(formerly IFDS)",
+        "headline1": "Used ReactJS, HTML5, CSS, Bootstrap, and JavaScript to develop software solutions for clients.",
+        "headline2": "Managed the delivery of the ET Echo project independently, earning recognition for providing effective knowledge transfer (KT) and increased client satisfaction by 15% through timely software solution delivery.",
+        "designation": "Programmer Analyst",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "",
+        "companyName": "Cognizant Technology Solutions Pvt. Ltd.",
+        "images": []
       }
     ]
   },
