@@ -216,6 +216,20 @@
         "skills": "",
         "companyName": "Cognizant Technology Solutions Pvt. Ltd.",
         "images": []
+      },
+      {
+        "timeline": "Dec'18 – Dec'19",
+        "projectName": "DET Inventory (MetLife)",
+        "headline1": "Developed web pages using HTML5, CSS3, Bootstrap, and JavaScript, and utilized tools such as Visual Studio Code and Notepad++ to deliver high-quality software.",
+        "headline2": "Improved team productivity by 10% through effective communication and collaboration, and integrated new features, resulting in a 25% increase in user engagement.",
+        "designation": "Programmer Analyst Trainee",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "",
+        "companyName": "Cognizant Technology Solutions Pvt. Ltd.",
+        "images": []
       }
     ]
   },
