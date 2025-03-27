@@ -141,31 +141,6 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "1743055815312",
-        "text": "Complete React Developer in 2022",
-        "type": "certificate"
-      },
-      {
-        "id": "1743056451306",
-        "text": "Javascript Basics for Beginners by Mosh Hamedani",
-        "type": "certificate"
-      },
-      {
-        "id": "1743056411010",
-        "text": "Modern JavaScript(Complete guide from Novice to Ninja)",
-        "type": "certificate"
-      },
-      {
-        "id": "1743056478492",
-        "text": "Lucideus Cyber Security Expert by Lucideus Pvt. Ltd.",
-        "type": "certificate"
-      },
-      {
-        "id": "1743056490903",
-        "text": "Microsoft Technology Associate for Software Development Fundamentals by Microsoft Corporations Pvt. Ltd.",
-        "type": "certificate"
-      },
-      {
         "id": "1743055754750",
         "text": "State Level Badminton Player",
         "type": "award"
