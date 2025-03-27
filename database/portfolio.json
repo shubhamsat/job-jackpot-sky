@@ -130,7 +130,7 @@
         "rating": 8
       }
     ],
-    "skillAnimationType": "moving-animation"
+    "skillAnimationType": "still-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
